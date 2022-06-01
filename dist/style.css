@@ -1,13 +1,7 @@
-* {
-  background: #8eada9;
-}
-
 body {
+  background: #8eada9;
   display: grid;
   align-items: center;
   justify-content: center;
-}
-
-section {
   height: 100vh;
 }
