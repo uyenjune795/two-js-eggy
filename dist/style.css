@@ -1,0 +1,13 @@
+* {
+  background: #8eada9;
+}
+
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+section {
+  height: 100vh;
+}
